@@ -27,7 +27,7 @@ Usage
 To create packages on your own:
 
 - sudo apt install -y debhelper build-essential
-- git clone -b 8u201_armhf https://github.com/ThoanNV/oracle-java8-installer.git
+- git clone -b 8u201_armhf https://github.com/tod31/oracle-java8-installer.git
 - cd oracle-java8-installer
 - download jdk-8u201-linux-arm32-vfp-hflt.tar.gz and jce_policy-8.zip
 - Link JDK: https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8-2177648.html
